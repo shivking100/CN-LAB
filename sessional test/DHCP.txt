@@ -1,0 +1,6 @@
+DHCP (Dynamic Host Configuration Protocol) is a network
+management protocol used to dynamically assign an Internet Protocol (IP) address to any
+device, or node, on a network so they can communicate using IP. DHCP automates and
+centrally manages these configurations rather than requiring network administrators to
+manually assign IP addresses to all network devices. DHCP can be implemented on small
+local networks, as well as large enterprise networks.

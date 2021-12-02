@@ -1,0 +1,4 @@
+The Internet Control Message Protocol (ICMP) is a protocol that
+devices within a network use to communicate problems with data transmission. In this
+ICMP definition, one of the primary ways in which ICMP is used is to determine if data
+is getting to its destination and at the right time.
